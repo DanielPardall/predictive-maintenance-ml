@@ -1,4 +1,4 @@
-# Predictive Maintenance — Machine Learning Classification
+# Predictive Maintenance - Machine Learning Classification
 
 **A notebook-based study of machine failure detection and failure-type classification using Support Vector Machines, neural networks and Random Forest.**
 
